@@ -1,4 +1,6 @@
 # CloudiGent - Weather App
+**Project Link: https://cloudigent.netlify.app/**<br />
+
 Weather API based application for real-time weather information and also hourly & daily forecasted weather for a given location with additional functionalities.
 ## Technologies used
 ```React JS``` and ```Tailwind CSS```
